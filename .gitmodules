@@ -1,0 +1,3 @@
+[submodule "MRG-01-CNN-Transformer"]
+	path = MRG-01-CNN-Transformer
+	url = git@github.com:XiaoHG/MRG-01-CNN-Transformer.git
