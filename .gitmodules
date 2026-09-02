@@ -7,3 +7,6 @@
 [submodule "MRG-03-VLM"]
 	path = MRG-03-VLM
 	url = git@github.com:XiaoHG/MRG-03-VLM.git
+[submodule "MRG-04-LLM-Agent"]
+	path = MRG-04-LLM-Agent
+	url = git@github.com:XiaoHG/MRG-04-LLM-Agent.git
