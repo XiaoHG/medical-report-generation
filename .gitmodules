@@ -4,3 +4,6 @@
 [submodule "MRG-02-RAG"]
 	path = MRG-02-RAG
 	url = git@github.com:XiaoHG/MRG-02-RAG.git
+[submodule "MRG-03-VLM"]
+	path = MRG-03-VLM
+	url = git@github.com:XiaoHG/MRG-03-VLM.git
