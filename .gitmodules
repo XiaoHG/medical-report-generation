@@ -1,3 +1,6 @@
 [submodule "MRG-01-CNN-Transformer"]
 	path = MRG-01-CNN-Transformer
 	url = git@github.com:XiaoHG/MRG-01-CNN-Transformer.git
+[submodule "MRG-02-RAG"]
+	path = MRG-02-RAG
+	url = git@github.com:XiaoHG/MRG-02-RAG.git
