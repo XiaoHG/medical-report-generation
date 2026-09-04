@@ -10,3 +10,6 @@
 [submodule "MRG-04-LLM-Agent"]
 	path = MRG-04-LLM-Agent
 	url = git@github.com:XiaoHG/MRG-04-LLM-Agent.git
+[submodule "MRG-05-Tooth-Seg"]
+	path = MRG-05-Tooth-Seg
+	url = git@github.com:XiaoHG/MRG-05-Tooth-Seg.git
