@@ -1,0 +1,121 @@
+<mxfile host="Electron">
+  <diagram name="第 1 页" id="kWCNmbIvz_Z5IV7VO6V6">
+    <mxGraphModel dx="1414" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=#FFB570;" value="" vertex="1">
+          <mxGeometry height="120" width="799" x="13" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#dae8fc;strokeColor=none;dashed=1;" value="图像/患者/类别/来源/质量盘点" vertex="1">
+          <mxGeometry height="50" width="120" x="33" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#dae8fc;strokeColor=none;dashed=1;" value="图谱挡位&lt;br&gt;四级标签映射" vertex="1">
+          <mxGeometry height="50" width="120" x="191" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#dae8fc;strokeColor=none;dashed=1;" value="患者级别划分&lt;br&gt;(50//50/50/50)" vertex="1">
+          <mxGeometry height="50" width="120" x="349" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#dae8fc;strokeColor=none;dashed=1;" value="双医生标注与仲裁" vertex="1">
+          <mxGeometry height="50" width="120" x="506" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#dae8fc;strokeColor=none;dashed=1;" value="报告字段与视觉证据Schema" vertex="1">
+          <mxGeometry height="50" width="120" x="664" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=17;fillColor=#FFE6CC;strokeColor=none;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;基础层：研究内容一（数据、标签与证据字段体系）&lt;/span&gt;" vertex="1">
+          <mxGeometry height="41" width="411" x="33" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=#B3B3B3;" value="" vertex="1">
+          <mxGeometry height="240" width="799" x="15" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=17;fillColor=#e1d5e7;strokeColor=none;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;核心层：两条主线&lt;/span&gt;" vertex="1">
+          <mxGeometry height="41" width="193" x="35" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-12" edge="1" parent="1" source="C8kNLAKVdzNUN3oahfyo-30" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="264" y="560" as="sourcePoint" />
+            <mxPoint x="264" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="主线一：视觉证据" vertex="1">
+          <mxGeometry height="30" width="120" x="33" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="桥接" vertex="1">
+          <mxGeometry height="30" width="50" x="285" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="主线二：知识证据" vertex="1">
+          <mxGeometry height="30" width="130" x="534" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="研究内容二：视觉证据链构建" vertex="1">
+          <mxGeometry height="30" width="185" x="33" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="研究内容三：视觉-语言证据对齐" vertex="1">
+          <mxGeometry height="30" width="206" x="285" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="研究内容四：知识增强与证据约束报告生成" vertex="1">
+          <mxGeometry height="30" width="280" x="534" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=12;" value="牙齿区域定位与剪裁&lt;br&gt;有序（Ordinal）四级分级&lt;br&gt;证据深度学习（EDL）不确定性&lt;br&gt;区域特征、证据ID与质量标记" vertex="1">
+          <mxGeometry height="75" width="185" x="35" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#808080;fillColor=#eeeeee;align=left;verticalAlign=middle;rounded=0;" value="输出：等级概率、证据强度、区域特征、证据ID" vertex="1">
+          <mxGeometry height="30" width="206" x="35" y="405.5" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="部位 / 牙面 / 征象 / 否定 / 不可判断&lt;br&gt;每条断言绑定图像区域&lt;br&gt;结构化视觉证据表（五元组）&lt;br&gt;字段级 F1、证据 ID 命中率、遮挡测试" vertex="1">
+          <mxGeometry height="75" width="206" x="289" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#808080;fillColor=#eeeeee;align=left;verticalAlign=middle;rounded=0;" value="输出：可回溯到区域的视觉证据表" vertex="1">
+          <mxGeometry height="30" width="206" x="289" y="405.5" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="带来源 / 页码 / 版本 / 审核记录的知识库&lt;br&gt;按视觉证据检索分级依据与鉴别说明&lt;br&gt;证据链作为中间表征：证据 ID + 知识条目&lt;br&gt;受约束生成 JSON 与短叙述，三级校验" vertex="1">
+          <mxGeometry height="75" width="240" x="534" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#808080;fillColor=#eeeeee;align=left;verticalAlign=middle;rounded=0;" value="输出：可回溯到区域的视觉证据表" vertex="1">
+          <mxGeometry height="30" width="219" x="534" y="405.5" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-29" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;strokeWidth=2;entryX=0.625;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" target="C8kNLAKVdzNUN3oahfyo-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="514" y="450.96000000000004" as="sourcePoint" />
+            <mxPoint x="514" y="209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-28" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4666666666666667;arrowSize=0.5178571428571429;fillColor=#e1d5e7;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="35.5" width="37" x="495" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-31" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;strokeWidth=2;" target="C8kNLAKVdzNUN3oahfyo-30" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="266.5" y="450" as="sourcePoint" />
+            <mxPoint x="264" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-30" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4666666666666667;arrowSize=0.5178571428571429;fillColor=#e1d5e7;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="35.5" width="37" x="248" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="160" width="799" x="15" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-34" parent="1" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.4838709677419355;arrowSize=0.4666666666666667;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="30" width="31" x="397" y="176" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="统一数据与标注规范" vertex="1">
+          <mxGeometry height="30" width="136" x="428" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=17;fillColor=#d5e8d4;strokeColor=none;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;验证层：&lt;/span&gt;研究内容五（可信评价与外部验证）" vertex="1">
+          <mxGeometry height="41" width="357" x="35" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="分级：macro-F1 / QWK / 逐类召回&lt;br&gt;报告：字段 F1 / 遗漏率 / 无依据陈述率 / 医生盲评&lt;br&gt;证据：区域 mIoU / 证据 ID 命中&lt;br&gt;检索：Recall@k / 引用支持率&lt;br&gt;校准：ECE / Brier / 风险 — 覆盖率&lt;div style=&quot;color: rgb(31, 35, 41); font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; line-height: 24px; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);&quot;&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="87.5" width="749" x="35" y="517" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#808080;fillColor=#eeeeee;align=left;verticalAlign=middle;rounded=0;" value="患者级置信区间・独立机构同模态补标集" vertex="1">
+          <mxGeometry height="30" width="240" x="35" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-39" parent="1" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.4838709677419355;arrowSize=0.4666666666666667;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="30" width="31" x="400" y="456" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="统一评价协议" vertex="1">
+          <mxGeometry height="30" width="136" x="431" y="455" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
