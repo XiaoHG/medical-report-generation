@@ -70,19 +70,19 @@
         <mxCell id="BmyP9QWEjeViHHSi7E2Q-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontSize=14;dashed=1;fillColor=none;" value="标注手册定稿&lt;br&gt;Schema冻结与版本记录，扩大到全量标注" vertex="1">
           <mxGeometry height="40" width="280" x="380" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="BmyP9QWEjeViHHSi7E2Q-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="（3）报告字段与证据标注" vertex="1">
-          <mxGeometry height="30" width="190" x="40" y="400" as="geometry" />
+        <mxCell id="BmyP9QWEjeViHHSi7E2Q-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="（3）阶段输出" vertex="1">
+          <mxGeometry height="30" width="125" x="40" y="400" as="geometry" />
         </mxCell>
         <mxCell id="BmyP9QWEjeViHHSi7E2Q-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="统一氟斑牙数据集（含来源与质量记录）" vertex="1">
           <mxGeometry height="30" width="235" x="60" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="BmyP9QWEjeViHHSi7E2Q-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;" value="四级标签体系 + 原始标签映射表" vertex="1">
-          <mxGeometry height="30" width="190" x="300" y="440" as="geometry" />
+        <mxCell id="BmyP9QWEjeViHHSi7E2Q-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;" value="四级标签体系" vertex="1">
+          <mxGeometry height="30" width="100" x="300" y="440" as="geometry" />
         </mxCell>
         <mxCell id="BmyP9QWEjeViHHSi7E2Q-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12;" value="报告字段与视觉证据 Schema" vertex="1">
-          <mxGeometry height="30" width="170" x="495" y="440" as="geometry" />
+          <mxGeometry height="30" width="170" x="405" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="BmyP9QWEjeViHHSi7E2Q-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" value="可溯源图像 — 标签 — 证据对应表" vertex="1">
+        <mxCell id="BmyP9QWEjeViHHSi7E2Q-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" value="可溯源图像 - 标签 - 证据对应表" vertex="1">
           <mxGeometry height="30" width="210" x="60" y="480" as="geometry" />
         </mxCell>
         <mxCell id="BmyP9QWEjeViHHSi7E2Q-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" value="双医生标注与仲裁质控记录" vertex="1">

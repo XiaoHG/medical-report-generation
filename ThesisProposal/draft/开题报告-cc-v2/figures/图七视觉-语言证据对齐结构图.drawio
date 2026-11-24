@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="Electron">
   <diagram name="第 1 页" id="KqicKGac3rE1PA8DE2VV">
-    <mxGraphModel dx="1704" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1178" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="f9G7zzSKrVKMZopOKQ7s-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#66B2FF;" value="" vertex="1">
           <mxGeometry height="60" width="210" x="90" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="f9G7zzSKrVKMZopOKQ7s-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#004C99;" value="R1 | 右上门牙" vertex="1">
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#004C99;" value="R2 | 右下门牙" vertex="1">
           <mxGeometry height="30" width="90" x="90" y="210" as="geometry" />
         </mxCell>
         <mxCell id="f9G7zzSKrVKMZopOKQ7s-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=none;fillColor=#0066CC;" value="" vertex="1">
@@ -67,8 +67,8 @@
         <mxCell id="f9G7zzSKrVKMZopOKQ7s-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#66B2FF;" value="" vertex="1">
           <mxGeometry height="60" width="210" x="90" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="f9G7zzSKrVKMZopOKQ7s-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#004C99;" value="R1 | 右上门牙" vertex="1">
-          <mxGeometry height="30" width="90" x="90" y="290" as="geometry" />
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#004C99;" value="R3 | 左下侧切牙" vertex="1">
+          <mxGeometry height="30" width="105" x="90" y="290" as="geometry" />
         </mxCell>
         <mxCell id="f9G7zzSKrVKMZopOKQ7s-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=none;fillColor=#0066CC;" value="" vertex="1">
           <mxGeometry height="10" width="30" x="100" y="320" as="geometry" />
@@ -91,7 +91,7 @@
         <mxCell id="f9G7zzSKrVKMZopOKQ7s-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#66B2FF;" value="" vertex="1">
           <mxGeometry height="60" width="210" x="90" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="f9G7zzSKrVKMZopOKQ7s-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#004C99;" value="R1 | 右上门牙" vertex="1">
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#004C99;" value="R4 | 左上门牙" vertex="1">
           <mxGeometry height="30" width="90" x="90" y="370" as="geometry" />
         </mxCell>
         <mxCell id="f9G7zzSKrVKMZopOKQ7s-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=none;fillColor=#0066CC;" value="" vertex="1">
@@ -265,7 +265,7 @@
         <mxCell id="_avDRliTFWfYiPNJKxzb-105" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="白垩色斑块" vertex="1">
           <mxGeometry height="30" width="80" x="900" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="_avDRliTFWfYiPNJKxzb-106" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="否" vertex="1">
+        <mxCell id="_avDRliTFWfYiPNJKxzb-106" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;fontSize=10;" value="是" vertex="1">
           <mxGeometry height="30" width="60" x="980" y="160" as="geometry" />
         </mxCell>
         <mxCell id="_avDRliTFWfYiPNJKxzb-107" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="否" vertex="1">
@@ -337,7 +337,7 @@
         <mxCell id="_avDRliTFWfYiPNJKxzb-129" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#4D4D4D;fontStyle=1" value="字段语义说明" vertex="1">
           <mxGeometry height="30" width="80" x="790" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="_avDRliTFWfYiPNJKxzb-131" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontColor=#4D4D4D;" value="否定：征象呗明确排除（如“未见缺损”）" vertex="1">
+        <mxCell id="_avDRliTFWfYiPNJKxzb-131" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontColor=#4D4D4D;" value="否定：征象被明确排除（如“未见缺损”）" vertex="1">
           <mxGeometry height="20" width="183" x="802" y="390" as="geometry" />
         </mxCell>
         <mxCell id="_avDRliTFWfYiPNJKxzb-132" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#4D4D4D;strokeColor=none;" value="" vertex="1">

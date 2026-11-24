@@ -13,7 +13,7 @@
         <mxCell id="C8kNLAKVdzNUN3oahfyo-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#dae8fc;strokeColor=none;dashed=1;" value="图谱挡位&lt;br&gt;四级标签映射" vertex="1">
           <mxGeometry height="50" width="120" x="191" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="C8kNLAKVdzNUN3oahfyo-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#dae8fc;strokeColor=none;dashed=1;" value="患者级别划分&lt;br&gt;(50//50/50/50)" vertex="1">
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#dae8fc;strokeColor=none;dashed=1;" value="严重程度级别&lt;br&gt;划分数据集" vertex="1">
           <mxGeometry height="50" width="120" x="349" y="90" as="geometry" />
         </mxCell>
         <mxCell id="C8kNLAKVdzNUN3oahfyo-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#dae8fc;strokeColor=none;dashed=1;" value="双医生标注与仲裁" vertex="1">
@@ -70,8 +70,8 @@
         <mxCell id="C8kNLAKVdzNUN3oahfyo-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="带来源 / 页码 / 版本 / 审核记录的知识库&lt;br&gt;按视觉证据检索分级依据与鉴别说明&lt;br&gt;证据链作为中间表征：证据 ID + 知识条目&lt;br&gt;受约束生成 JSON 与短叙述，三级校验" vertex="1">
           <mxGeometry height="75" width="240" x="534" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="C8kNLAKVdzNUN3oahfyo-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#808080;fillColor=#eeeeee;align=left;verticalAlign=middle;rounded=0;" value="输出：可回溯到区域的视觉证据表" vertex="1">
-          <mxGeometry height="30" width="219" x="534" y="405.5" as="geometry" />
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#808080;fillColor=#eeeeee;align=left;verticalAlign=middle;rounded=0;" value="输出：可审核、可追溯的结构化辅助诊断报告" vertex="1">
+          <mxGeometry height="30" width="250" x="534" y="405.5" as="geometry" />
         </mxCell>
         <mxCell id="C8kNLAKVdzNUN3oahfyo-29" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;strokeWidth=2;entryX=0.625;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" target="C8kNLAKVdzNUN3oahfyo-10" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -103,10 +103,10 @@
         <mxCell id="C8kNLAKVdzNUN3oahfyo-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=17;fillColor=#d5e8d4;strokeColor=none;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;验证层：&lt;/span&gt;研究内容五（可信评价与外部验证）" vertex="1">
           <mxGeometry height="41" width="357" x="35" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="C8kNLAKVdzNUN3oahfyo-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="分级：macro-F1 / QWK / 逐类召回&lt;br&gt;报告：字段 F1 / 遗漏率 / 无依据陈述率 / 医生盲评&lt;br&gt;证据：区域 mIoU / 证据 ID 命中&lt;br&gt;检索：Recall@k / 引用支持率&lt;br&gt;校准：ECE / Brier / 风险 — 覆盖率&lt;div style=&quot;color: rgb(31, 35, 41); font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; line-height: 24px; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);&quot;&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="分级：macro-F1 / QWK / 逐类召回&lt;br&gt;报告：字段 F1 / 遗漏率 / 无依据陈述率 / 医生盲评&lt;br&gt;证据：区域 mIoU / 证据 ID 命中&lt;br&gt;检索：Recall@k / 引用支持率&lt;br&gt;校准：ECE / Brier / 风险 - 覆盖率&lt;div style=&quot;color: rgb(31, 35, 41); font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; line-height: 24px; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);&quot;&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="87.5" width="749" x="35" y="517" as="geometry" />
         </mxCell>
-        <mxCell id="C8kNLAKVdzNUN3oahfyo-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#808080;fillColor=#eeeeee;align=left;verticalAlign=middle;rounded=0;" value="患者级置信区间・独立机构同模态补标集" vertex="1">
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#808080;fillColor=#eeeeee;align=left;verticalAlign=middle;rounded=0;" value="患者级置信区间，独立机构同模态补标集" vertex="1">
           <mxGeometry height="30" width="240" x="35" y="610" as="geometry" />
         </mxCell>
         <mxCell id="C8kNLAKVdzNUN3oahfyo-39" parent="1" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.4838709677419355;arrowSize=0.4666666666666667;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">

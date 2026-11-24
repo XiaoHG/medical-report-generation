@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="第 1 页" id="ob0n3W4PwZBCzv9zPaSP">
-    <mxGraphModel dx="1414" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1178" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="MbNJ0NaU_yiizHHhH7zY-51" edge="1" parent="1" source="MbNJ0NaU_yiizHHhH7zY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MbNJ0NaU_yiizHHhH7zY-7" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MbNJ0NaU_yiizHHhH7zY-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;dashed=1;strokeColor=none;gradientColor=#97d077;fontColor=#190033;" value="团队已有数据 + 数据增强扩充" vertex="1">
+        <mxCell id="MbNJ0NaU_yiizHHhH7zY-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;dashed=1;strokeColor=none;gradientColor=#97d077;fontColor=#190033;" value="团队已有数据 + 数据扩充" vertex="1">
           <mxGeometry height="50" width="130" x="180" y="60" as="geometry" />
         </mxCell>
         <mxCell id="MbNJ0NaU_yiizHHhH7zY-52" edge="1" parent="1" source="MbNJ0NaU_yiizHHhH7zY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MbNJ0NaU_yiizHHhH7zY-8" value="">
@@ -25,13 +25,13 @@
         <mxCell id="MbNJ0NaU_yiizHHhH7zY-53" edge="1" parent="1" source="MbNJ0NaU_yiizHHhH7zY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MbNJ0NaU_yiizHHhH7zY-9" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MbNJ0NaU_yiizHHhH7zY-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;dashed=1;gradientColor=#97d077;strokeColor=none;" value="图谱档位 → 四级映射&lt;br&gt;原始标签保留" vertex="1">
+        <mxCell id="MbNJ0NaU_yiizHHhH7zY-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;dashed=1;gradientColor=#97d077;strokeColor=none;" value="图谱档位 - 四级映射&lt;br&gt;原始标签保留" vertex="1">
           <mxGeometry height="50" width="130" x="480" y="60" as="geometry" />
         </mxCell>
         <mxCell id="MbNJ0NaU_yiizHHhH7zY-54" edge="1" parent="1" source="MbNJ0NaU_yiizHHhH7zY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MbNJ0NaU_yiizHHhH7zY-10" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MbNJ0NaU_yiizHHhH7zY-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;dashed=1;gradientColor=#97d077;strokeColor=none;" value="患者级划分（按患者标识）&lt;br&gt;测试集封存" vertex="1">
+        <mxCell id="MbNJ0NaU_yiizHHhH7zY-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;dashed=1;gradientColor=#97d077;strokeColor=none;" value="数据划分" vertex="1">
           <mxGeometry height="50" width="130" x="630" y="60" as="geometry" />
         </mxCell>
         <mxCell id="MbNJ0NaU_yiizHHhH7zY-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;dashed=1;gradientColor=#97d077;strokeColor=none;" value="报告字段与证据 Schema&lt;br&gt;双医生试标 + 仲裁" vertex="1">
