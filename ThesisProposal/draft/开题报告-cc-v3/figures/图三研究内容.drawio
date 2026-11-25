@@ -1,0 +1,64 @@
+<mxfile host="Electron">
+  <diagram name="第 1 页" id="kWCNmbIvz_Z5IV7VO6V6">
+    <mxGraphModel dx="1178" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="335" width="960" x="20" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=#B3B3B3;" value="" vertex="1">
+          <mxGeometry height="285" width="280" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="研究内容一：视觉-语言证据对齐" vertex="1">
+          <mxGeometry height="30" width="240" x="60" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="150" width="209.5" x="72.25" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#808080;fillColor=#eeeeee;align=left;verticalAlign=middle;rounded=0;" value="输出：可回溯到区域的视觉证据表" vertex="1">
+          <mxGeometry height="30" width="206" x="72.25" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=top;rounded=0;fontSize=12;" value="牙齿区域定位与剪裁&lt;br&gt;有序（Ordinal）四级分级&lt;br&gt;证据深度学习（EDL）&lt;br&gt;部位 / 牙面 / 征象 / 否定 / 不可判断&lt;br&gt;结构化视觉证据表" vertex="1">
+          <mxGeometry height="111" width="168.5" x="92.75" y="119.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=#B3B3B3;" value="" vertex="1">
+          <mxGeometry height="285" width="280" x="360" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="&lt;span style=&quot;text-align: left;&quot;&gt;研究内容二：知识检索增强&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="240" x="380" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="150" width="209.5" x="392.25" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#808080;fillColor=#eeeeee;align=left;verticalAlign=middle;rounded=0;" value="输出：联合证据链（图像可证 + 知识可证）" vertex="1">
+          <mxGeometry height="30" width="209.5" x="392.25" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=top;rounded=0;fontSize=12;" value="带来源 / 页码 / 版本 / 审核记录的知识库&lt;br&gt;按视觉证据检索分级依据与鉴别说明&lt;br&gt;联合证据链作为中间表征&lt;br&gt;视觉证据 ID + 知识条目 ID" vertex="1">
+          <mxGeometry height="111" width="168.5" x="412.75" y="119.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=#B3B3B3;" value="" vertex="1">
+          <mxGeometry height="285" width="280" x="680" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="&lt;span style=&quot;text-align: left;&quot;&gt;研究内容三：氟斑牙诊断报告生成&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="240" x="700" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="150" width="209.5" x="712.25" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#808080;fillColor=#eeeeee;align=left;verticalAlign=middle;rounded=0;" value="输出：可审核、可追溯的结构化辅助诊断报告" vertex="1">
+          <mxGeometry height="30" width="209.5" x="712.25" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=top;rounded=0;fontSize=12;" value="受联合证据链约束生成 JSON 与短叙述&lt;br&gt;事实校验 / 一致性校验 / 安全边界三级校验&lt;br&gt;低置信或证据冲突转医生复核" vertex="1">
+          <mxGeometry height="111" width="168.5" x="732.75" y="119.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-15" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4399999999999977;arrowSize=0.5333333333333333;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="326" y="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-16" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4399999999999977;arrowSize=0.5333333333333333;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="646" y="167.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

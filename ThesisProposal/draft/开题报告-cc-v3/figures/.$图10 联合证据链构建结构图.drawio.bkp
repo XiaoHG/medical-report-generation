@@ -1,0 +1,16 @@
+<mxfile host="Electron">
+  <diagram name="第 1 页" id="xeQ4EDhvET6NIE-1vdhK">
+    <mxGraphModel dx="1414" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CoUmj4d9TPnt5MkCS-Sv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=15;" value="&lt;b&gt;视觉证据单元&lt;/b&gt;&lt;br&gt;Evidence ID：E-01&lt;br&gt;Regione：R2 白垩斑&lt;br&gt;&lt;div&gt;（图像可证）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="260" x="80" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CoUmj4d9TPnt5MkCS-Sv-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=15;" value="&lt;b&gt;视觉证据单元&lt;/b&gt;&lt;br&gt;Evidence ID：E-01&lt;br&gt;Regione：R2 白垩斑&lt;br&gt;&lt;div&gt;（图像可证）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="260" x="380" y="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

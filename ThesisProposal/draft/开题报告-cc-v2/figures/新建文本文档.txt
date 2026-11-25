@@ -1,0 +1,20 @@
+[1] 遵义市新民镇朝阳村2009与2023年地氟病情况调查分析-顾茂华
+[2] Gu M, Wu Y, Jiang Z and Xu H 2024 Integrated method for grading diagnosis of dental fluorosis combined with segmentation and classification Biomedical Signal Processing and Control 96 106510
+[3] Xu H, Wu Y, Wu J, Xie R, Gu M and Wang R 2025 Masked latent transformer with random masking ratio to advance the diagnosis of dental fluorosis JOURNAL OF VISUAL COMMUNICATION AND IMAGE REPRESENTATION 111 104496
+[4] Li M, Wu Y, Li Z and Ye C 2026 LD2Net: real-time lightweight fluorosis grading with depthwise separable convolution and dual-axis attentional intelligence Journal of Real-Time Image Processing 23
+[5] Xu H, Wu Y, Xie R, Xu J, Wu J, Wang R and Tian Y 2025 Convolutional state space model with multi-window cross-scan to advance the automated diagnosis of skeletal fluorosis Biomedical Signal Processing and Control 103 107439
+[6] Yin Ziyuan 尹子源 and Wu Yun 吴云 2025 四象限斜向特征位移的轻量级牙齿图像分割 Laser & Optoelectronics Progress 62 1037007
+[7] Wei 等 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+[8] Jing 等 - 2018 - On the Automatic Generation of Medical Imaging Reports
+[9] Li 等 - 2018 - Hybrid Retrieval-Generation Reinforced Agent for Medical Image Report Generation
+[10] Chen 等 - 2022 - Generating Radiology Reports via Memory-driven Transformer
+[11] Moor M, Banerjee O, Abad Z S H, Krumholz H M, Leskovec J, Topol E J and Rajpurkar P 2023 Foundation models for generalist medical artificial intelligence NATURE 616 259–65
+[12] Towards Generalist Biomedical AI
+[13] Xiao T, Qiu Y, Yang H and Wang Z 2027 R3-Gen: Enhancing medical report generation with reasoning-reinforced fine-tuning PATTERN RECOGNITION 183 115111
+[14] Zakka C, Shad R, Chaurasia A, Dalal A R, Kim J L, Moor M, Fong R, Phillips C, Alexander K and Ashley E 2024 Almanac — Retrieval-Augmented Language Models for Clinical Medicine 1
+[15] Gao 等 - 2024 - Retrieval-Augmented Generation for Large Language Models A Survey
+[16] Sensoy 等 - 2018 - Evidential Deep Learning to Quantify Classification Uncertainty
+[17] Guo 等 - 2017 - On Calibration of Modern Neural Networks
+[18] Geifman和El-Yaniv - 2017 - Selective Classification for Deep Neural Networks
+[19] Niu 等 - 2016 - Ordinal Regression With Multiple Output CNN for Age Estimation
+[20] Williams A, Nangia N and Bowman S 2018 A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference 1112–22
