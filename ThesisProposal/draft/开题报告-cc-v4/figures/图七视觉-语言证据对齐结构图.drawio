@@ -1,0 +1,400 @@
+<mxfile host="Electron">
+  <diagram name="第 1 页" id="KqicKGac3rE1PA8DE2VV">
+    <mxGraphModel dx="1178" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_avDRliTFWfYiPNJKxzb-161" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="690" width="1140" x="60" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-140" edge="1" parent="1" source="f9G7zzSKrVKMZopOKQ7s-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.594;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="f9G7zzSKrVKMZopOKQ7s-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=7;" value="" vertex="1">
+          <mxGeometry height="510" width="250" x="70" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;fontColor=#455D73;" value="阶段二：输出-区域特征" vertex="1">
+          <mxGeometry height="30" width="155" x="117.5" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#66B2FF;" value="" vertex="1">
+          <mxGeometry height="60" width="210" x="90" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#004C99;" value="R1 | 右上门牙" vertex="1">
+          <mxGeometry height="30" width="90" x="90" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=none;fillColor=#0066CC;" value="" vertex="1">
+          <mxGeometry height="10" width="30" x="100" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#0066CCCC;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="10" width="30" x="140" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=none;fillColor=#0066CC80;" value="" vertex="1">
+          <mxGeometry height="10" width="30" x="180" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=none;fillColor=#0066CC4D;" value="" vertex="1">
+          <mxGeometry height="10" width="30" x="220" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=none;fillColor=#0066CC1A;" value="" vertex="1">
+          <mxGeometry height="10" width="30" x="260" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;fontColor=#333333;" value="特征向量f1 (D维)" vertex="1">
+          <mxGeometry height="10" width="70" x="95" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#66B2FF;" value="" vertex="1">
+          <mxGeometry height="60" width="210" x="90" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#004C99;" value="R2 | 右下门牙" vertex="1">
+          <mxGeometry height="30" width="90" x="90" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=none;fillColor=#0066CC;" value="" vertex="1">
+          <mxGeometry height="10" width="30" x="100" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#0066CCCC;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="10" width="30" x="140" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=none;fillColor=#0066CC80;" value="" vertex="1">
+          <mxGeometry height="10" width="30" x="180" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=none;fillColor=#0066CC4D;" value="" vertex="1">
+          <mxGeometry height="10" width="30" x="220" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=none;fillColor=#0066CC1A;" value="" vertex="1">
+          <mxGeometry height="10" width="30" x="260" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;fontColor=#333333;" value="特征向量f2 (D维)" vertex="1">
+          <mxGeometry height="10" width="70" x="95" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#66B2FF;" value="" vertex="1">
+          <mxGeometry height="60" width="210" x="90" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#004C99;" value="R3 | 左下侧切牙" vertex="1">
+          <mxGeometry height="30" width="105" x="90" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=none;fillColor=#0066CC;" value="" vertex="1">
+          <mxGeometry height="10" width="30" x="100" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#0066CCCC;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="10" width="30" x="140" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=none;fillColor=#0066CC80;" value="" vertex="1">
+          <mxGeometry height="10" width="30" x="180" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=none;fillColor=#0066CC4D;" value="" vertex="1">
+          <mxGeometry height="10" width="30" x="220" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=none;fillColor=#0066CC1A;" value="" vertex="1">
+          <mxGeometry height="10" width="30" x="260" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;fontColor=#333333;" value="特征向量f3 (D维)" vertex="1">
+          <mxGeometry height="10" width="70" x="95" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#66B2FF;" value="" vertex="1">
+          <mxGeometry height="60" width="210" x="90" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#004C99;" value="R4 | 左上门牙" vertex="1">
+          <mxGeometry height="30" width="90" x="90" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=none;fillColor=#0066CC;" value="" vertex="1">
+          <mxGeometry height="10" width="30" x="100" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#0066CCCC;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="10" width="30" x="140" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=none;fillColor=#0066CC80;" value="" vertex="1">
+          <mxGeometry height="10" width="30" x="180" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=none;fillColor=#0066CC4D;" value="" vertex="1">
+          <mxGeometry height="10" width="30" x="220" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=none;fillColor=#0066CC1A;" value="" vertex="1">
+          <mxGeometry height="10" width="30" x="260" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;fontColor=#333333;" value="特征向量f4 (D维)" vertex="1">
+          <mxGeometry height="10" width="70" x="95" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;dashed=1;fillColor=#E6E6E6;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="90" width="210" x="90" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#0066CC;fontStyle=1" value="视觉锚点说明" vertex="1">
+          <mxGeometry height="30" width="80" x="155" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontColor=#333333;" value="区域级特征作为视觉锚点，&lt;br&gt;与医生描述中的征象逐一匹配，&lt;br&gt;为每条证据ID提供可回溯的图像区域位置" vertex="1">
+          <mxGeometry height="50" width="190" x="100" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-49" edge="1" parent="1" source="f9G7zzSKrVKMZopOKQ7s-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endSize=3;" target="f9G7zzSKrVKMZopOKQ7s-47" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
+          <mxGeometry height="130" width="340" x="360" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;fontColor=#994C00;" value="医生描述（自然语言）" vertex="1">
+          <mxGeometry height="30" width="155" x="452.5" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontColor=#331A00;" value="“右上门牙可见白垩色斑块，边界模糊；&lt;br&gt;左下侧切牙未见明显缺损；&lt;br&gt;左上门牙区显示不清；”" vertex="1">
+          <mxGeometry height="50" width="190" x="380" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-46" edge="1" parent="1" source="f9G7zzSKrVKMZopOKQ7s-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endSize=2;startSize=2;strokeColor=#CC6600;" target="f9G7zzSKrVKMZopOKQ7s-45" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=8;fontColor=#CC6600;" value="自由文本" vertex="1">
+          <mxGeometry height="10" width="40" x="467.5" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=8;fontColor=#CC6600;" value="抽取为结构化字段" vertex="1">
+          <mxGeometry height="10" width="70" x="537.5" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-50" edge="1" parent="1" source="f9G7zzSKrVKMZopOKQ7s-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;endSize=3;" target="f9G7zzSKrVKMZopOKQ7s-48" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="160" width="340" x="360" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-143" edge="1" parent="1" source="f9G7zzSKrVKMZopOKQ7s-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.833;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="f9G7zzSKrVKMZopOKQ7s-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="160" width="340" x="360" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;fontColor=#006600;" value="字段定义（Schema）" vertex="1">
+          <mxGeometry height="30" width="155" x="452.5" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;fontColor=#6C4280;" value="关键征象 - 图像区域对齐" vertex="1">
+          <mxGeometry height="30" width="155" x="452.5" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=39;fillColor=#FFFFFF;strokeColor=#82b366;fontSize=10;fontColor=#006600;" value="部位" vertex="1">
+          <mxGeometry height="30" width="50" x="380" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=39;fillColor=#FFFFFF;strokeColor=#82b366;fontSize=10;fontColor=#006600;" value="征象" vertex="1">
+          <mxGeometry height="30" width="50" x="440" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=39;fillColor=#FFFFFF;strokeColor=#82b366;fontSize=10;fontColor=#006600;" value="否定" vertex="1">
+          <mxGeometry height="30" width="50" x="503" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=39;fillColor=#FFFFFF;strokeColor=#82b366;fontSize=10;fontColor=#006600;" value="不可判断" vertex="1">
+          <mxGeometry height="30" width="50" x="567" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=39;fillColor=#FFFFFF;strokeColor=#82b366;fontSize=10;fontColor=#006600;" value="证据ID" vertex="1">
+          <mxGeometry height="30" width="50" x="630" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-148" edge="1" parent="1" source="f9G7zzSKrVKMZopOKQ7s-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.799;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="_avDRliTFWfYiPNJKxzb-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9G7zzSKrVKMZopOKQ7s-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;strokeColor=#666666;arcSize=7;fontColor=#333333;" value="" vertex="1">
+          <mxGeometry height="510" width="450" x="740" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;fontColor=#006600;" value="每条证据由五元组(部位、征象、否定、不可判断、证据ID)描述并绑定一个图象区域ID，形成“描述 - 图像”双向索引" vertex="1">
+          <mxGeometry height="40" width="270" x="400" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#9673A6;fillColor=#FFFFFF;fontColor=#660033;fontSize=10;" value="R1" vertex="1">
+          <mxGeometry height="20" width="40" x="577" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#9673A6;fillColor=#FFFFFF;fontColor=#660033;fontSize=10;" value="R2" vertex="1">
+          <mxGeometry height="20" width="40" x="577" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#9673A6;fillColor=#FFFFFF;fontColor=#660033;fontSize=10;" value="R3" vertex="1">
+          <mxGeometry height="20" width="40" x="577" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#9673A6;fillColor=#FFFFFF;fontColor=#660033;fontSize=10;" value="R4" vertex="1">
+          <mxGeometry height="20" width="40" x="577" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-9" edge="1" parent="1" source="_avDRliTFWfYiPNJKxzb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endSize=4;" target="_avDRliTFWfYiPNJKxzb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;" value="白垩色斑块" vertex="1">
+          <mxGeometry height="20" width="90" x="430" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-11" edge="1" parent="1" source="_avDRliTFWfYiPNJKxzb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endSize=4;" target="_avDRliTFWfYiPNJKxzb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;" value="边界模糊" vertex="1">
+          <mxGeometry height="20" width="90" x="430" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-13" edge="1" parent="1" source="_avDRliTFWfYiPNJKxzb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endSize=4;" target="_avDRliTFWfYiPNJKxzb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;" value="缺损(否定)" vertex="1">
+          <mxGeometry height="20" width="90" x="430" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-15" edge="1" parent="1" source="_avDRliTFWfYiPNJKxzb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endSize=4;" target="_avDRliTFWfYiPNJKxzb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;" value="显示不清(不可判断)" vertex="1">
+          <mxGeometry height="20" width="90" x="430" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;fontColor=#004C99;" value="结构化视觉证据表" vertex="1">
+          <mxGeometry height="30" width="155" x="890" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#00356B;" value="" vertex="1">
+          <mxGeometry height="30" width="410" x="760" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="证据ID" vertex="1">
+          <mxGeometry height="30" width="60" x="770" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="部位" vertex="1">
+          <mxGeometry height="30" width="60" x="840" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-94" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="征象" vertex="1">
+          <mxGeometry height="30" width="80" x="900" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="否定" vertex="1">
+          <mxGeometry height="30" width="60" x="980" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="不可判断" vertex="1">
+          <mxGeometry height="30" width="60" x="1040" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-98" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="区域" vertex="1">
+          <mxGeometry height="30" width="60" x="1100" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;fontColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="30" width="410" x="760" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CCCCCC;fontColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="30" width="410" x="760" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-101" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;fontColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="30" width="410" x="760" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-102" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CCCCCC;fontColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="30" width="410" x="760" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="E1" vertex="1">
+          <mxGeometry height="30" width="60" x="770" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-104" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="右上门牙" vertex="1">
+          <mxGeometry height="30" width="60" x="840" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-105" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="白垩色斑块" vertex="1">
+          <mxGeometry height="30" width="80" x="900" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-106" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;fontSize=10;" value="是" vertex="1">
+          <mxGeometry height="30" width="60" x="980" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-107" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="否" vertex="1">
+          <mxGeometry height="30" width="60" x="1040" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-108" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="R1" vertex="1">
+          <mxGeometry height="30" width="60" x="1100" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-109" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="E2" vertex="1">
+          <mxGeometry height="30" width="60" x="770" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="右上门牙" vertex="1">
+          <mxGeometry height="30" width="60" x="840" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="边界模糊" vertex="1">
+          <mxGeometry height="30" width="80" x="900" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="否" vertex="1">
+          <mxGeometry height="30" width="60" x="980" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-113" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="否" vertex="1">
+          <mxGeometry height="30" width="60" x="1040" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-114" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="R1" vertex="1">
+          <mxGeometry height="30" width="60" x="1100" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-115" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="E3" vertex="1">
+          <mxGeometry height="30" width="60" x="770" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="左下侧切牙" vertex="1">
+          <mxGeometry height="30" width="60" x="840" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-117" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="缺损" vertex="1">
+          <mxGeometry height="30" width="80" x="900" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-118" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;fontSize=10;" value="是" vertex="1">
+          <mxGeometry height="30" width="60" x="980" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-119" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="否" vertex="1">
+          <mxGeometry height="30" width="60" x="1040" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-120" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="R3" vertex="1">
+          <mxGeometry height="30" width="60" x="1100" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-121" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="E4" vertex="1">
+          <mxGeometry height="30" width="60" x="770" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-122" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="左上门牙" vertex="1">
+          <mxGeometry height="30" width="60" x="840" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-123" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="显示不清" vertex="1">
+          <mxGeometry height="30" width="80" x="900" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-124" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="-" vertex="1">
+          <mxGeometry height="30" width="60" x="980" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-125" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;fontSize=10;" value="是" vertex="1">
+          <mxGeometry height="30" width="60" x="1040" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-126" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00356B;fontSize=10;" value="R2" vertex="1">
+          <mxGeometry height="30" width="60" x="1100" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-127" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;fontColor=#331A00;" value="证据ID与区域 - 绑定、支持回溯与遮挡验证" vertex="1">
+          <mxGeometry height="30" width="230" x="850" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-128" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;dashed=1;fillColor=#E6E6E6;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="140" width="400" x="770" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-129" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#4D4D4D;fontStyle=1" value="字段语义说明" vertex="1">
+          <mxGeometry height="30" width="80" x="790" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-131" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontColor=#4D4D4D;" value="否定：征象被明确排除（如“未见缺损”）" vertex="1">
+          <mxGeometry height="20" width="183" x="802" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-132" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#4D4D4D;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="2.5" width="2.5" x="796" y="398.75" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-133" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontColor=#4D4D4D;" value="不可判断：图像质量或证据不足" vertex="1">
+          <mxGeometry height="20" width="183" x="802" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-134" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#4D4D4D;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="2.5" width="2.5" x="796" y="418.75" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-135" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontColor=#4D4D4D;" value="证据ID：唯一标识，用于命中率统计" vertex="1">
+          <mxGeometry height="20" width="183" x="802" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-136" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#4D4D4D;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="2.5" width="2.5" x="796" y="438.75" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-137" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontColor=#4D4D4D;" value="区域：对应阶段二输出的区域编号" vertex="1">
+          <mxGeometry height="20" width="183" x="802" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-138" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#4D4D4D;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="2.5" width="2.5" x="796" y="458.75" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#CCCCCC;strokeColor=#808080;arcSize=7;" value="" vertex="1">
+          <mxGeometry height="120" width="1120" x="70" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-145" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;fontColor=#4D4D4D;" value="对齐质量评价" vertex="1">
+          <mxGeometry height="30" width="155" x="553" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-150" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="60" width="280" x="100" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-151" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#003366;" value="字段级F1" vertex="1">
+          <mxGeometry height="20" width="80" x="200" y="667" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-154" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;fontColor=#4D4D4D;" value="逐字段评估：部位 / 征象 / 否定 / 不可判断" vertex="1">
+          <mxGeometry height="20" width="210" x="135" y="691" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-155" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#FFFFFF;strokeColor=#009900;fontColor=#006600;" value="" vertex="1">
+          <mxGeometry height="60" width="280" x="490" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-156" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#006600;" value="证据ID命中率" vertex="1">
+          <mxGeometry height="20" width="80" x="600" y="667" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-157" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;fontColor=#4D4D4D;" value="预测证据ID与金标准区域匹配的比例" vertex="1">
+          <mxGeometry height="20" width="210" x="525.5" y="691" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-158" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#FFFFFF;strokeColor=#660066;fontColor=#660066;" value="" vertex="1">
+          <mxGeometry height="60" width="280" x="880" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-159" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#660066;" value="区域遮挡测试" vertex="1">
+          <mxGeometry height="20" width="80" x="980" y="667" as="geometry" />
+        </mxCell>
+        <mxCell id="_avDRliTFWfYiPNJKxzb-160" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;fontColor=#4D4D4D;" value="遮挡关键区域 -&amp;gt; 证据置信度应该显著下降" vertex="1">
+          <mxGeometry height="20" width="210" x="920" y="691" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
