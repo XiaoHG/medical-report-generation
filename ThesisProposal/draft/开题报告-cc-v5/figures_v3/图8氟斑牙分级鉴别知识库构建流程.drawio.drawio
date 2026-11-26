@@ -1,0 +1,89 @@
+<mxfile host="Electron">
+  <diagram name="第 1 页" id="g7hHnEFPKys-Q2xkhER0">
+    <mxGraphModel dx="1165" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O2ktFs_r6MxjaLxdGn-q-2" edge="1" parent="1" source="JIRiLMCSfZF7_dQU_OAy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="JIRiLMCSfZF7_dQU_OAy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JIRiLMCSfZF7_dQU_OAy-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;strokeColor=none;arcSize=0;fontSize=14;perimeterSpacing=0;gradientColor=#b3b3b3;" value="氟斑牙诊断图谱" vertex="1">
+          <mxGeometry height="40" width="120" x="70" y="81" as="geometry" />
+        </mxCell>
+        <mxCell id="O2ktFs_r6MxjaLxdGn-q-3" edge="1" parent="1" source="JIRiLMCSfZF7_dQU_OAy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="JIRiLMCSfZF7_dQU_OAy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JIRiLMCSfZF7_dQU_OAy-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=none;arcSize=0;fontSize=14;perimeterSpacing=0;gradientColor=#7ea6e0;" value="临床诊疗指南" vertex="1">
+          <mxGeometry height="40" width="120" x="70" y="138" as="geometry" />
+        </mxCell>
+        <mxCell id="O2ktFs_r6MxjaLxdGn-q-4" edge="1" parent="1" source="JIRiLMCSfZF7_dQU_OAy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="JIRiLMCSfZF7_dQU_OAy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JIRiLMCSfZF7_dQU_OAy-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=none;arcSize=0;fontSize=14;perimeterSpacing=0;gradientColor=#97d077;" value="医学文献" vertex="1">
+          <mxGeometry height="40" width="120" x="70" y="194" as="geometry" />
+        </mxCell>
+        <mxCell id="O2ktFs_r6MxjaLxdGn-q-5" edge="1" parent="1" source="JIRiLMCSfZF7_dQU_OAy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="JIRiLMCSfZF7_dQU_OAy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JIRiLMCSfZF7_dQU_OAy-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#ffcd28;strokeColor=none;arcSize=0;fontSize=14;perimeterSpacing=0;gradientColor=#ffa500;" value="专家共识与经验" vertex="1">
+          <mxGeometry height="40" width="120" x="70" y="251" as="geometry" />
+        </mxCell>
+        <mxCell id="JIRiLMCSfZF7_dQU_OAy-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=none;strokeColor=#82b366;arcSize=0;dashed=1;" value="" vertex="1">
+          <mxGeometry height="260" width="212.5" x="240" y="61" as="geometry" />
+        </mxCell>
+        <mxCell id="JIRiLMCSfZF7_dQU_OAy-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=none;strokeColor=none;arcSize=0;fontSize=14;perimeterSpacing=0;align=left;fontColor=#003366;" value="(1) 知识抽取&lt;br&gt;提取分度与鉴别要点&lt;div&gt;&lt;br&gt;&lt;div&gt;(2) 元数据标注&lt;br&gt;来源 / 页码 / 范围 / 证据等级&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3) 审核记录&lt;br&gt;审核人 / 日期 / 版本号&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="142.5" x="275" y="111" as="geometry" />
+        </mxCell>
+        <mxCell id="JIRiLMCSfZF7_dQU_OAy-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1;fontColor=#006600;" value="知识抽取与结构化加工" vertex="1">
+          <mxGeometry height="40" width="190" x="251.25" y="71" as="geometry" />
+        </mxCell>
+        <mxCell id="JIRiLMCSfZF7_dQU_OAy-46" edge="1" parent="1" source="JIRiLMCSfZF7_dQU_OAy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JIRiLMCSfZF7_dQU_OAy-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JIRiLMCSfZF7_dQU_OAy-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=0;gradientColor=#97d077;" value="" vertex="1">
+          <mxGeometry height="260" width="220" x="510" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JIRiLMCSfZF7_dQU_OAy-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1;gradientColor=#97d077;" value="氟斑牙分级鉴别知识库" vertex="1">
+          <mxGeometry height="40" width="170" x="532.5" y="71" as="geometry" />
+        </mxCell>
+        <mxCell id="JIRiLMCSfZF7_dQU_OAy-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;strokeColor=none;arcSize=16;gradientColor=#b3b3b3;" value="" vertex="1">
+          <mxGeometry height="200" width="220" x="510" y="337" as="geometry" />
+        </mxCell>
+        <mxCell id="JIRiLMCSfZF7_dQU_OAy-37" edge="1" parent="1" source="JIRiLMCSfZF7_dQU_OAy-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" target="JIRiLMCSfZF7_dQU_OAy-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JIRiLMCSfZF7_dQU_OAy-38" connectable="0" parent="JIRiLMCSfZF7_dQU_OAy-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;fontColor=#000000;" value="双人审核通过" vertex="1">
+          <mxGeometry relative="1" x="0.0342" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JIRiLMCSfZF7_dQU_OAy-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=none;strokeColor=default;arcSize=0;fontSize=14;perimeterSpacing=0;fontColor=#000000;dashed=1;" value="带核验池" vertex="1">
+          <mxGeometry height="40" width="120" x="557.5" y="397" as="geometry" />
+        </mxCell>
+        <mxCell id="O2ktFs_r6MxjaLxdGn-q-8" edge="1" parent="1" source="JIRiLMCSfZF7_dQU_OAy-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="JIRiLMCSfZF7_dQU_OAy-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="495" />
+              <mxPoint x="500" y="437" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JIRiLMCSfZF7_dQU_OAy-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=none;strokeColor=default;arcSize=0;fontSize=14;perimeterSpacing=0;fontColor=#000000;dashed=1;" value="已核验库" vertex="1">
+          <mxGeometry height="40" width="120" x="557.5" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="JIRiLMCSfZF7_dQU_OAy-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1;fontColor=#003366;" value="状态流转" vertex="1">
+          <mxGeometry height="40" width="120" x="560" y="347" as="geometry" />
+        </mxCell>
+        <mxCell id="JIRiLMCSfZF7_dQU_OAy-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;strokeColor=none;arcSize=25;fontSize=18;gradientColor=#b3b3b3;" value="&lt;span&gt;进入阶段二步骤二：视觉证据驱动检索&lt;/span&gt;" vertex="1">
+          <mxGeometry height="200" width="408.75" x="70" y="337" as="geometry" />
+        </mxCell>
+        <mxCell id="O2ktFs_r6MxjaLxdGn-q-6" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.38333333333333236;arrowSize=0.4880952380952375;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="460" y="171" as="geometry" />
+        </mxCell>
+        <mxCell id="O2ktFs_r6MxjaLxdGn-q-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(0, 102, 0); font-size: 14px;&quot;&gt;knowledge_id：唯一编号&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 102, 0); font-size: 14px;&quot;&gt;content：知识片段内容&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 102, 0); font-size: 14px;&quot;&gt;source：来源文献与页码&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 102, 0); font-size: 14px;&quot;&gt;evidence_level：证据等级&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 102, 0); font-size: 14px;&quot;&gt;version: 版本&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 102, 0); font-size: 14px;&quot;&gt;audit_status：审核状态&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="190" x="525" y="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

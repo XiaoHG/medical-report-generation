@@ -1,0 +1,73 @@
+<mxfile host="Electron">
+  <diagram name="第 1 页" id="v9dSEIdXeyytVPUTJVcy">
+    <mxGraphModel dx="1398" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-I3zF5HOdqqnGbhEjjZs-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;dashed=1;fontSize=16;strokeColor=none;fontColor=#333333;" value="共享视觉编码特征&lt;br&gt;（CNN/Transformer）" vertex="1">
+          <mxGeometry height="80" width="170" x="36" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-I3zF5HOdqqnGbhEjjZs-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;dashed=1;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="230" width="210" x="230" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-I3zF5HOdqqnGbhEjjZs-11" edge="1" parent="1" source="-I3zF5HOdqqnGbhEjjZs-3" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;fillColor=#e1d5e7;strokeColor=#634C6E;" target="-I3zF5HOdqqnGbhEjjZs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-I3zF5HOdqqnGbhEjjZs-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;dashed=1;fillColor=#76608A80;strokeColor=#432D57;fontColor=#ffffff;" value="Ordinal约束分支&lt;br&gt;（利用等级有序性）" vertex="1">
+          <mxGeometry height="50" width="170" x="250" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-I3zF5HOdqqnGbhEjjZs-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;dashed=1;fillColor=#76608A80;strokeColor=#432D57;fontColor=#ffffff;" value="EDL证据头&lt;br&gt;（输出各类证据量）" vertex="1">
+          <mxGeometry height="50" width="170" x="250" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="-I3zF5HOdqqnGbhEjjZs-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;fontColor=#4C0099;" value="EDL分级头" vertex="1">
+          <mxGeometry height="30" width="113" x="278.5" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-I3zF5HOdqqnGbhEjjZs-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;dashed=1;fontSize=16;strokeColor=none;fontColor=#333333;" value="Dirichlet参数α = ek + 1&lt;br&gt;概率pk/证据强度/不确定性u" vertex="1">
+          <mxGeometry height="80" width="170" x="465" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="-I3zF5HOdqqnGbhEjjZs-14" edge="1" parent="1" source="-I3zF5HOdqqnGbhEjjZs-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-I3zF5HOdqqnGbhEjjZs-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="757.48" y="145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-I3zF5HOdqqnGbhEjjZs-16" connectable="0" parent="-I3zF5HOdqqnGbhEjjZs-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" value="否" vertex="1">
+          <mxGeometry relative="1" x="0.195" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-I3zF5HOdqqnGbhEjjZs-15" edge="1" parent="1" source="-I3zF5HOdqqnGbhEjjZs-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-I3zF5HOdqqnGbhEjjZs-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="757.48" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-I3zF5HOdqqnGbhEjjZs-17" connectable="0" parent="-I3zF5HOdqqnGbhEjjZs-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" value="是" vertex="1">
+          <mxGeometry relative="1" x="0.195" y="5" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-I3zF5HOdqqnGbhEjjZs-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontSize=16;fillColor=#e1d5e7;strokeColor=none;fontColor=#333333;" value="不确定性 &amp;gt; 阈值？" vertex="1">
+          <mxGeometry height="80" width="160" x="660" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-I3zF5HOdqqnGbhEjjZs-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;dashed=1;fontSize=16;strokeColor=none;fontColor=#333333;" value="输出：高置信分级结果&lt;br&gt;绑定证据ID" vertex="1">
+          <mxGeometry height="60" width="170" x="840" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="-I3zF5HOdqqnGbhEjjZs-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;dashed=1;fontSize=16;strokeColor=none;fontColor=#333333;" value="标记低置信样本&lt;br&gt;转人工复核 / 补充检索" vertex="1">
+          <mxGeometry height="60" width="170" x="840" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="Zd1gWoyG47sC7hYC3WpG-1" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.6333333333333333;arrowSize=0.605;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" value="" vertex="1">
+          <mxGeometry height="30" width="21.5" x="209" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Zd1gWoyG47sC7hYC3WpG-2" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.6333333333333333;arrowSize=0.605;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" value="" vertex="1">
+          <mxGeometry height="30" width="21.5" x="443" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="Zd1gWoyG47sC7hYC3WpG-3" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.6333333333333333;arrowSize=0.605;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" value="" vertex="1">
+          <mxGeometry height="30" width="21.5" x="638.5" y="185" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

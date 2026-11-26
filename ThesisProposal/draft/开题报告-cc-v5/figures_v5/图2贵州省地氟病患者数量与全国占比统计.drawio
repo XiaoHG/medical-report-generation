@@ -1,0 +1,118 @@
+<mxfile host="Electron">
+  <diagram name="第 1 页" id="9h0bJ_73KYrm6Je3YtWc">
+    <mxGraphModel dx="1398" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OSutlEvMoRjx84MW97Wa-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#CCCCCC;fillColor=none;dashed=1;arcSize=0;" value="" vertex="1">
+          <mxGeometry height="100" width="283" x="47" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="病区人口" vertex="1">
+          <mxGeometry height="30" width="60" x="73" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="1648" vertex="1">
+          <mxGeometry height="40" width="80" x="70" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#675075;fontSize=14;" value="万人" vertex="1">
+          <mxGeometry height="30" width="60" x="160" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-6" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="110" as="sourcePoint" />
+            <mxPoint x="40" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#CCCCCC;fillColor=none;dashed=1;arcSize=0;" value="" vertex="1">
+          <mxGeometry height="100" width="283" x="47" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="历史氟斑牙患病人数峰值" vertex="1">
+          <mxGeometry height="30" width="164" x="73" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="986.8" vertex="1">
+          <mxGeometry height="40" width="92" x="70" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#675075;fontSize=14;" value="万人" vertex="1">
+          <mxGeometry height="30" width="60" x="160" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-12" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="230" as="sourcePoint" />
+            <mxPoint x="40" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#CCCCCC;fillColor=none;dashed=1;arcSize=0;" value="" vertex="1">
+          <mxGeometry height="100" width="283" x="47" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="登记地氟病病例" vertex="1">
+          <mxGeometry height="30" width="104" x="73" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="75230" vertex="1">
+          <mxGeometry height="40" width="92" x="70" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#675075;fontSize=14;" value="例" vertex="1">
+          <mxGeometry height="30" width="60" x="160" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-18" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="350" as="sourcePoint" />
+            <mxPoint x="40" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0;fontColor=#666666;fontSize=14;" value="截至2022年" vertex="1">
+          <mxGeometry height="30" width="92" x="230" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#CCCCCC;arcSize=7;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="340" width="410" x="350" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="全国占比对比" vertex="1">
+          <mxGeometry height="30" width="121" x="374" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#AB00AB;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="15" width="20" x="540" y="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#99CCFF;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="15" width="20" x="624" y="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="贵州省" vertex="1">
+          <mxGeometry height="15" width="50" x="560" y="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="国内其他省份" vertex="1">
+          <mxGeometry height="15" width="92" x="644" y="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="氟斑牙全国占比" vertex="1">
+          <mxGeometry height="15" width="110" x="399" y="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="氟骨症全国占比" vertex="1">
+          <mxGeometry height="15" width="110" x="603" y="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OSutlEvMoRjx84MW97Wa-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;spacing=2;spacingLeft=0;" value="核心结论：贵州省氟斑牙病例占全国半数以上，&lt;br&gt;氟骨症病例占超三分之一，地氟病防治任务依然繁重。" vertex="1">
+          <mxGeometry height="40" width="402" x="365" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="rkRHpKFBgMInveuQ9Fuc-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#66B2FF;fillStyle=dots;sketch=1;direction=south;" value="" vertex="1">
+          <mxGeometry height="180" width="180" x="365" y="123" as="geometry" />
+        </mxCell>
+        <mxCell id="rkRHpKFBgMInveuQ9Fuc-11" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.8038170549129378;endAngle=0.3527302970176241;gradientColor=none;fillColor=#990099;direction=south;" value="" vertex="1">
+          <mxGeometry height="170" width="180" x="364" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="rkRHpKFBgMInveuQ9Fuc-12" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=#990099;fontStyle=1;fontColor=#FFFFFF;" value="48.04%" vertex="1">
+          <mxGeometry height="15" width="50" x="395" y="188" as="geometry" />
+        </mxCell>
+        <mxCell id="rkRHpKFBgMInveuQ9Fuc-13" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=none;fontStyle=1;fontColor=#FFFFFF;" value="51.96%" vertex="1">
+          <mxGeometry height="15" width="50" x="470" y="217.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rkRHpKFBgMInveuQ9Fuc-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#66B2FF;fillStyle=dots;sketch=1;" value="" vertex="1">
+          <mxGeometry height="180" width="180" x="565" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="rkRHpKFBgMInveuQ9Fuc-23" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.08812111932690007;endAngle=0.31180284349225657;gradientColor=none;fillColor=#990099;" value="" vertex="1">
+          <mxGeometry height="180" width="180" x="562" y="127" as="geometry" />
+        </mxCell>
+        <mxCell id="rkRHpKFBgMInveuQ9Fuc-24" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=#990099;fontStyle=1;fontColor=#FFFFFF;" value="65.65" vertex="1">
+          <mxGeometry height="15" width="50" x="594" y="222.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rkRHpKFBgMInveuQ9Fuc-25" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=none;fontStyle=1;fontColor=#FFFFFF;" value="34.35%" vertex="1">
+          <mxGeometry height="15" width="50" x="680" y="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

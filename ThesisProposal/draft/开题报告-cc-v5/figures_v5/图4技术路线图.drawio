@@ -1,0 +1,157 @@
+<mxfile host="Electron">
+  <diagram name="第 1 页" id="ob0n3W4PwZBCzv9zPaSP">
+    <mxGraphModel dx="1165" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Sq0s2umFCvt09JKrn0jy-1" edge="1" parent="1" source="x8hE52IV85MAb6lzDamS-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x8hE52IV85MAb6lzDamS-84" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;dashed=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="185" width="630" x="40" y="253" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-15" edge="1" parent="1" source="x8hE52IV85MAb6lzDamS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="x8hE52IV85MAb6lzDamS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="130" width="160" x="60" y="293" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="步骤一：数据与标定" vertex="1">
+          <mxGeometry height="30" width="120" x="80" y="293" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=8;" value="&lt;ul style=&quot;margin: 4px 0px 0px; padding-left: 18px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span class=&quot;&quot;&gt;盘点图像/患者/质量与去重&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span class=&quot;&quot;&gt;图谱档位映射为四级标签&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span class=&quot;&quot;&gt;患者级划分（训练/验证/测试集）&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span class=&quot;&quot;&gt;设计 Schema 与双医生仲裁试标&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="70" y="323" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-18" edge="1" parent="1" source="x8hE52IV85MAb6lzDamS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="x8hE52IV85MAb6lzDamS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="130" width="160" x="270" y="293" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="步骤二：视觉证据链构建" vertex="1">
+          <mxGeometry height="30" width="140" x="280" y="293" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=8;" value="&lt;ul style=&quot;margin: 4px 0px 0px; padding-left: 18px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span&gt;CNN/Transformer 共享编码器&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span&gt;牙齿定位裁剪与四级分类&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span&gt;Ordinal 约束 + EDL 不确定性&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span&gt;生成区域编号、特征与证据 ID&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="280" y="323" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="130" width="160" x="480" y="293" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="步骤三：视觉-语言证据对齐" vertex="1">
+          <mxGeometry height="30" width="150" x="485" y="293" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=8;" value="&lt;ul style=&quot;margin: 4px 0px 0px; padding-left: 18px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;定义部位/牙面/征象/否定/不可判断&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;医生描述映射到图像区域&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;输出结构化视觉证据表&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); color: light-dark(rgb(15, 17, 21), rgb(222, 223, 227));&quot;&gt;评价：字段F1、证据ID命中率、遮挡测试&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="485" y="323" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="数据规范" vertex="1">
+          <mxGeometry height="20" width="50" x="220" y="333" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="区域特征" vertex="1">
+          <mxGeometry height="20" width="50" x="430" y="333" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;span style=&quot;white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;输出：结构化视觉证据表&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="360" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=12;" value="阶段二：视觉语言对齐" vertex="1">
+          <mxGeometry height="30" width="160" x="275" y="253" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq0s2umFCvt09JKrn0jy-2" edge="1" parent="1" source="x8hE52IV85MAb6lzDamS-54" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x8hE52IV85MAb6lzDamS-53" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;dashed=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="185" width="630" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-55" edge="1" parent="1" source="x8hE52IV85MAb6lzDamS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="x8hE52IV85MAb6lzDamS-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="130" width="160" x="60" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="步骤一：知识库构建" vertex="1">
+          <mxGeometry height="30" width="120" x="80" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=8;" value="&lt;ul style=&quot;margin: 4px 0px 0px; padding-left: 18px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span class=&quot;&quot;&gt;收集指南/图谱/文献形成条目&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span class=&quot;&quot;&gt;记录来源、页码、适用范围&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span class=&quot;&quot;&gt;标注证据等级、版本与审核记录&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span class=&quot;&quot;&gt;未审核知识标记“待核验”&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="70" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-59" edge="1" parent="1" source="x8hE52IV85MAb6lzDamS-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="x8hE52IV85MAb6lzDamS-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="130" width="160" x="270" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="步骤二：视觉证据驱动检索" vertex="1">
+          <mxGeometry height="30" width="150" x="275" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=8;" value="&lt;ul style=&quot;margin: 4px 0px 0px; padding-left: 18px; background-color: rgb(255, 255, 255); color: rgb(15, 17, 21);&quot;&gt;&lt;li style=&quot;color: light-dark(rgb(15, 17, 21), rgb(222, 223, 227));&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-right: 0px; margin-bottom: 0px; margin-left: 0px; margin-top: 0px !important;&quot;&gt;&lt;font color=&quot;#0f1115&quot; face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot;&gt;以视觉证据表构造检索查询&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-right: 0px; margin-bottom: 0px; margin-left: 0px; margin-top: 0px !important;&quot;&gt;&lt;font color=&quot;#0f1115&quot; face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot;&gt;检索返回“知识片段+元数据”&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-right: 0px; margin-bottom: 0px; margin-left: 0px; margin-top: 0px !important;&quot;&gt;&lt;font color=&quot;#0f1115&quot; face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot;&gt;仅补充分级依据与鉴别说明&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-right: 0px; margin-bottom: 0px; margin-left: 0px; margin-top: 0px !important;&quot;&gt;&lt;font color=&quot;#0f1115&quot; face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot;&gt;评价：Recall@k、引用覆盖率与支持率&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="88" width="140" x="280" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="130" width="160" x="480" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="步骤三：联合证据链构建" vertex="1">
+          <mxGeometry height="30" width="150" x="485" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=8;" value="&lt;ul style=&quot;margin: 4px 0px 0px; padding-left: 18px; background-color: rgb(255, 255, 255); color: rgb(15, 17, 21);&quot;&gt;&lt;li style=&quot;color: light-dark(rgb(15, 17, 21), rgb(222, 223, 227)); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;绑定“视觉证据ID+知识条目ID”&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;color: light-dark(rgb(15, 17, 21), rgb(222, 223, 227)); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;区分“图像可证”与“知识可证”&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;color: light-dark(rgb(15, 17, 21), rgb(222, 223, 227)); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;检查结论可回溯至图像或原文&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-right: 0px; margin-bottom: 0px; margin-left: 0px; margin-top: 0px !important;&quot;&gt;&lt;font color=&quot;#0f1115&quot; face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot;&gt;输出报告生成的中间表征&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="485" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="可溯源知识" vertex="1">
+          <mxGeometry height="20" width="50" x="220" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="知识片段" vertex="1">
+          <mxGeometry height="20" width="50" x="430" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=12;" value="阶段一：知识检索增强" vertex="1">
+          <mxGeometry height="30" width="160" x="275" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;dashed=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="185" width="630" x="40" y="472" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-71" edge="1" parent="1" source="x8hE52IV85MAb6lzDamS-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="x8hE52IV85MAb6lzDamS-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="130" width="160" x="60" y="512" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="步骤一：受约束的报告生成" vertex="1">
+          <mxGeometry height="30" width="160" x="60" y="512" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=8;" value="&lt;ul style=&quot;margin: 4px 0px 0px; padding-left: 18px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span class=&quot;&quot;&gt;LoRA 微调开源视觉语言模型&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span class=&quot;&quot;&gt;联合证据链约束生成 JSON 与短叙述&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span class=&quot;&quot;&gt;严格引用证据ID/知识ID&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span class=&quot;&quot;&gt;证据不足输出“不可判断/建议复核”&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="88" width="140" x="70" y="542" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-75" edge="1" parent="1" source="x8hE52IV85MAb6lzDamS-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="x8hE52IV85MAb6lzDamS-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="130" width="160" x="270" y="512" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="步骤二：三级校验与人工复核" vertex="1">
+          <mxGeometry height="30" width="160" x="270" y="512" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=8;" value="&lt;ul style=&quot;margin: 4px 0px 0px; padding-left: 18px; background-color: rgb(255, 255, 255); color: rgb(15, 17, 21);&quot;&gt;&lt;li style=&quot;color: light-dark(rgb(15, 17, 21), rgb(222, 223, 227));&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-right: 0px; margin-bottom: 0px; margin-left: 0px; margin-top: 0px !important;&quot;&gt;&lt;font color=&quot;#0f1115&quot; face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot;&gt;执行事实校验、一致性校验&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-right: 0px; margin-bottom: 0px; margin-left: 0px; margin-top: 0px !important;&quot;&gt;&lt;font color=&quot;#0f1115&quot; face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot;&gt;执行安全边界校验&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-right: 0px; margin-bottom: 0px; margin-left: 0px; margin-top: 0px !important;&quot;&gt;&lt;font color=&quot;#0f1115&quot; face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot;&gt;低置信/冲突样本转医生审核&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-right: 0px; margin-bottom: 0px; margin-left: 0px; margin-top: 0px !important;&quot;&gt;&lt;font color=&quot;#0f1115&quot; face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot;&gt;复核记录回写用于模型迭代&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="280" y="542" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="130" width="160" x="480" y="512" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="步骤三：多维评价与外部验证" vertex="1">
+          <mxGeometry height="30" width="160" x="480" y="512" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=8;" value="&lt;ul style=&quot;margin: 4px 0px 0px; padding-left: 18px; background-color: rgb(255, 255, 255); color: rgb(15, 17, 21);&quot;&gt;&lt;li style=&quot;color: light-dark(rgb(15, 17, 21), rgb(222, 223, 227)); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;评价指标：F1、QWK、无依据陈述率、ECE等&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;color: light-dark(rgb(15, 17, 21), rgb(222, 223, 227)); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;统计：转诊率、高置信错误率、医生修改时间&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;color: light-dark(rgb(15, 17, 21), rgb(222, 223, 227)); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;独立机构同模态补标集外部验证&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-right: 0px; margin-bottom: 0px; margin-left: 0px; margin-top: 0px !important;&quot;&gt;&lt;font color=&quot;#0f1115&quot; face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot;&gt;组件消融实验与失败案例归因分析&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="88" width="150" x="485" y="542" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="待校验报告" vertex="1">
+          <mxGeometry height="20" width="50" x="220" y="552" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="通过报告及反馈" vertex="1">
+          <mxGeometry height="30" width="50" x="430" y="547" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=12;" value="阶段三：医学辅助诊断报告" vertex="1">
+          <mxGeometry height="30" width="160" x="275" y="472" as="geometry" />
+        </mxCell>
+        <mxCell id="x8hE52IV85MAb6lzDamS-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;span style=&quot;white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;输出：搜索结果&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="360" y="225" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

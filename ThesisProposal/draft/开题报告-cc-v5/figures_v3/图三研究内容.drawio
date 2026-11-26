@@ -1,0 +1,55 @@
+<mxfile host="Electron">
+  <diagram name="第 1 页" id="kWCNmbIvz_Z5IV7VO6V6">
+    <mxGraphModel dx="1165" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="335" width="960" x="20" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=#B3B3B3;" value="" vertex="1">
+          <mxGeometry height="285" width="280" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=16;fontColor=#333333;" value="研究内容一：氟斑牙影像视觉证据提取" vertex="1">
+          <mxGeometry height="50" width="240" x="60" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#1A1A1A;dashed=1;strokeColor=#1A1A1A;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;牙齿区域定位与剪裁&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;有序（Ordinal）四级分级&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;证据深度学习（EDL）&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;结构化视觉证据表&lt;/span&gt;" vertex="1">
+          <mxGeometry height="150" width="209.5" x="72.25" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="C8kNLAKVdzNUN3oahfyo-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;rounded=0;fontSize=14;gradientColor=#7ea6e0;" value="输出：结构化视觉证据表" vertex="1">
+          <mxGeometry height="30" width="217.75" x="72.25" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=#B3B3B3;" value="" vertex="1">
+          <mxGeometry height="285" width="280" x="360" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=16;fontColor=#1A1A1A;" value="&lt;span style=&quot;text-align: left;&quot;&gt;研究内容二：氟斑牙知识库构建与检索&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="230" x="380" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#1A1A1A;strokeColor=#1A1A1A;dashed=1;" value="带来源 / 页码 / 版本 / 审核记录的知识库&lt;br&gt;按视觉证据检索分级依据与说明" vertex="1">
+          <mxGeometry height="150" width="209.5" x="392.25" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;rounded=0;fontSize=14;gradientColor=#97d077;" value="输出：知识库检索结果与来源" vertex="1">
+          <mxGeometry height="30" width="217.75" x="392.25" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=#B3B3B3;" value="" vertex="1">
+          <mxGeometry height="285" width="280" x="680" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=16;fontColor=#1A1A1A;" value="&lt;span style=&quot;text-align: left;&quot;&gt;研究内容三：氟斑牙辅助诊断报告生成&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="250" x="695" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#1A1A1A;strokeColor=#1A1A1A;dashed=1;" value="联合视觉证据表与知识库证据生成 JSON 与短叙述&lt;br&gt;低置信或证据冲突转医生复核" vertex="1">
+          <mxGeometry height="150" width="209.5" x="712.25" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffcd28;align=left;verticalAlign=middle;rounded=0;fontSize=14;gradientColor=#ffa500;" value="输出：结构化辅助诊断报告" vertex="1">
+          <mxGeometry height="30" width="209.5" x="712.25" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-15" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4399999999999977;arrowSize=0.5333333333333333;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="326" y="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wwCLRdSOhJvm9Fo0PSK8-16" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4399999999999977;arrowSize=0.5333333333333333;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="646" y="167.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
