@@ -1,0 +1,73 @@
+<mxfile host="Electron">
+  <diagram name="第 1 页" id="q5z5EZScfFVmaw3KBLcc">
+    <mxGraphModel dx="1398" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PZXN1wEiTxCKBzSwU-AM-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontSize=16;fontColor=#660000;fontStyle=1" value="报告初稿" vertex="1">
+          <mxGeometry height="60" width="150" x="60" y="214.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PZXN1wEiTxCKBzSwU-AM-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="290" width="230" x="250" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZXN1wEiTxCKBzSwU-AM-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1;fontColor=#660000;" value="三级校验" vertex="1">
+          <mxGeometry height="40" width="100" x="315" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZXN1wEiTxCKBzSwU-AM-19" edge="1" parent="1" source="PZXN1wEiTxCKBzSwU-AM-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="PZXN1wEiTxCKBzSwU-AM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZXN1wEiTxCKBzSwU-AM-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;" value="1. 事实校验" vertex="1">
+          <mxGeometry height="50" width="140" x="295" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="PZXN1wEiTxCKBzSwU-AM-20" edge="1" parent="1" source="PZXN1wEiTxCKBzSwU-AM-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="PZXN1wEiTxCKBzSwU-AM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZXN1wEiTxCKBzSwU-AM-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;" value="2. 一致性校验" vertex="1">
+          <mxGeometry height="50" width="140" x="295" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="PZXN1wEiTxCKBzSwU-AM-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=15;" value="3. 安全边界校验" vertex="1">
+          <mxGeometry height="50" width="140" x="295" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="PZXN1wEiTxCKBzSwU-AM-14" edge="1" parent="1" source="PZXN1wEiTxCKBzSwU-AM-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PZXN1wEiTxCKBzSwU-AM-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZXN1wEiTxCKBzSwU-AM-17" connectable="0" parent="PZXN1wEiTxCKBzSwU-AM-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#660000;" value="否，校验失败/低置信/冲突" vertex="1">
+          <mxGeometry relative="1" x="-0.1024" y="5" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZXN1wEiTxCKBzSwU-AM-15" edge="1" parent="1" source="PZXN1wEiTxCKBzSwU-AM-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PZXN1wEiTxCKBzSwU-AM-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZXN1wEiTxCKBzSwU-AM-16" connectable="0" parent="PZXN1wEiTxCKBzSwU-AM-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#660000;" value="是" vertex="1">
+          <mxGeometry relative="1" x="0.2431" y="-8" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZXN1wEiTxCKBzSwU-AM-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontSize=17;fillColor=#f8cecc;strokeColor=none;fontColor=#660000;" value="通过且高置信？" vertex="1">
+          <mxGeometry height="85" width="160" x="520" y="202" as="geometry" />
+        </mxCell>
+        <mxCell id="PZXN1wEiTxCKBzSwU-AM-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontSize=16;fontColor=#660000;" value="输出：辅助诊断报告" vertex="1">
+          <mxGeometry height="60" width="160" x="740" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="PZXN1wEiTxCKBzSwU-AM-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontSize=16;fontColor=#660000;" value="转医生复核" vertex="1">
+          <mxGeometry height="60" width="150" x="837" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="3HGKOZFgUIDN_4MJ1LIX-1" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.48;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" value="" vertex="1">
+          <mxGeometry height="40" width="30" x="487" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="3HGKOZFgUIDN_4MJ1LIX-2" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.48;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" value="" vertex="1">
+          <mxGeometry height="40" width="30" x="216" y="225" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

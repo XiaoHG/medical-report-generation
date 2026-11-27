@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="第 1 页" id="tMgI2307I7trcgAlGEie">
-    <mxGraphModel dx="694" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="964" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,19 +10,19 @@
         <mxCell id="ZqJYPQ37I1GbUcN2g2lc-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=none;" value="" vertex="1">
           <mxGeometry height="140" width="410" x="40" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="ZqJYPQ37I1GbUcN2g2lc-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0;fontColor=#330066;" value="" vertex="1">
+        <mxCell id="ZqJYPQ37I1GbUcN2g2lc-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=0;fillColor=none;strokeColor=#9673a6;fontStyle=0;fontColor=#330066;dashed=1;" value="" vertex="1">
           <mxGeometry height="80" width="130" x="245" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="ZqJYPQ37I1GbUcN2g2lc-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=none;fontColor=#330066;" value="1. 结构化JSON&lt;br&gt;2. 临床短叙述" vertex="1">
+        <mxCell id="ZqJYPQ37I1GbUcN2g2lc-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=none;fontColor=#330066;" value="输出：1. 结构化JSON、2. 临床短叙述" vertex="1">
           <mxGeometry height="70" width="410" x="40" y="310" as="geometry" />
         </mxCell>
         <mxCell id="ZqJYPQ37I1GbUcN2g2lc-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontColor=#330066;" value="条件约束" vertex="1">
           <mxGeometry height="30" width="60" x="280" y="95" as="geometry" />
         </mxCell>
-        <mxCell id="ZA_3NhdIKnoaZYyHuGFB-1" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;direction=south;arrowWidth=0.4444444444444457;arrowSize=0.5395833333333314;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" value="" vertex="1">
+        <mxCell id="ZA_3NhdIKnoaZYyHuGFB-1" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;direction=south;arrowWidth=0.4444444444444457;arrowSize=0.5395833333333314;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=none;gradientDirection=east;" value="" vertex="1">
           <mxGeometry height="30" width="40" x="230" y="95" as="geometry" />
         </mxCell>
-        <mxCell id="ZA_3NhdIKnoaZYyHuGFB-2" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;direction=south;arrowWidth=0.4444444444444457;arrowSize=0.5395833333333314;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" value="" vertex="1">
+        <mxCell id="ZA_3NhdIKnoaZYyHuGFB-2" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;direction=south;arrowWidth=0.4444444444444457;arrowSize=0.5395833333333314;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=none;gradientDirection=east;" value="" vertex="1">
           <mxGeometry height="30" width="40" x="230" y="275" as="geometry" />
         </mxCell>
         <mxCell id="ZA_3NhdIKnoaZYyHuGFB-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontColor=#330066;" value="输出" vertex="1">
